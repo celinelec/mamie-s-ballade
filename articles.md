@@ -1,17 +1,9 @@
 ---
-title: "1. préparation"
+title: "articles"
 order: 3
 in_menu: true
 blog_index: true
 ---
-Les billets, l'administratif, etc...  
-et la création d'un petit site pour me suivre tous au même endroit...
-
-
-  
-
-
-
 <aside>
   S'abonner via le <a href="{{ '/feed.xml' | relative_url }}">flux RSS</a>
   (<a href="https://flus.fr/carnet/a-quoi-servent-les-flux.html">c'est quoi ?</a>)
