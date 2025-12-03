@@ -8,8 +8,11 @@ in_menu: true
  Un petit site pour suivre mes pérégrinations en Nouvelle-zélande, à la rencontre de ma petite fille née cet été à Nelson.   
  
  au programme :  
- - passer les fêtes en famille 
- - visiter l'île du sud  
- - pouponner
+ - passer les fêtes en famille  
+ - pouponner 
+- visiter l'île du sud 
+- randonner, me détendre, m'émerveiller ...
+ 
+
 
  ![Texte décrivant l'image]({% link images/100_1019.JPG %}) 
