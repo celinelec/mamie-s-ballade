@@ -1,5 +1,5 @@
 ---
-title: "ici"
+title: "cliquez ici"
 ---
 ici s'afficheront les différents articles et images,  au fur et à mesure de leur création
 
