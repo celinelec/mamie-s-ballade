@@ -5,14 +5,13 @@ in_menu: true
 ---
 #  **mamie's ballade**
  
- Un petit site pour suivre mes pérégrinations en Nouvelle-zélande, à la rencontre de ma petite fille née cet été à Nelson.   
+ Un petit site pour suivre mes pérégrinations en Nouvelle-zélande, à la rencontre de ma petite -fille née cet été à Nelson.   
  
  au programme :  
  - passer les fêtes en famille  
  - pouponner 
 - visiter l'île du sud 
-- randonner, me détendre, m'émerveiller ...
+- randonner, m'émerveiller, me détendre ...
  
-
 
  ![Texte décrivant l'image]({% link images/100_1019.JPG %}) 
