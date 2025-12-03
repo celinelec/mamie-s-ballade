@@ -3,14 +3,12 @@ title: "mamie's ballade en nouvelle-zélande"
 order: 1
 in_menu: true
 ---
-# accueil
-
-  -**mamie's ballade**-
+#  **mamie's ballade**
  
  Un petit site pour suivre mes pérégrinations en Nouvelle-zélande, à la rencontre de ma petite fille née cet été à Nelson.   
  
  au programme :  
- - passer les fêtes en familles 
+ - passer les fêtes en famille 
  - visiter l'île du sud  
  - pouponner
 
