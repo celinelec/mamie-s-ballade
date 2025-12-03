@@ -10,4 +10,6 @@ in_menu: true
  au programme :  
  - passer les fêtes en familles 
  - visiter l'île du sud  
- - pouponner 
+ - pouponner
+
+ ![Texte décrivant l'image]({% link images/100_1019.JPG %}) 
