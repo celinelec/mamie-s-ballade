@@ -1,8 +1,13 @@
 ---
-title: Accueil
+title: "mamie's ballade en nouvelle-zélande"
 order: 0
+in_menu: true
 ---
-
-# L'Échappée Belle
-
-L'Échappée Belle est **une association** qui a pour objet de soutenir et promouvoir des activités et des personnes qui travaillent autour de **valeurs de consentement, de bien commun et de prendre soin des personnes et de l’environnement**.
+# mamie's ballade 
+ 
+ Un petit site pour suivre mes pérégrinations en Nouvelle-zélande, à la rencontre de ma petite fille née cet été à Nelson.   
+ 
+ au programme :  
+ - passer les fêtes en familles 
+ - visiter l'île du sud  
+ - pouponner 
