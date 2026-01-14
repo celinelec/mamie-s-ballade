@@ -12,10 +12,10 @@ Te mako bay ( malborough sounds) :
 
 ![Te mako bay]({% link images/10239.jpg %})
 
-Kurukuru : 
+Kurukuru :
 
-![pigeon nz]({% link images/10239.jpg %})
+![kurukuru]({% link images/11120.jpg %})
 
 Kekeno : 
 
-![kekeno]({% link images/10239.jpg %})
+![kekeno]({% link images/11717.jpg %})
