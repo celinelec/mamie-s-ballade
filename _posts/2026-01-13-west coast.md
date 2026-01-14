@@ -14,7 +14,8 @@ Te mako bay ( malborough sounds) :
 
 Kurukuru :
 
-![kurukuru]({% link images/11120.jpg %})
+![kurukuru]({% link images/11138.jpg %})
+
 
 Kekeno : 
 
